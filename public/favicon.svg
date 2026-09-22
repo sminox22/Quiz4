@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="portal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e8ffb0"/>
+      <stop offset="35%" stop-color="#97ce4c"/>
+      <stop offset="70%" stop-color="#3f9e1c"/>
+      <stop offset="100%" stop-color="#0c3d0a"/>
+    </radialGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#portal)"/>
+  <path d="M32 6c8 6 14 10 8 20-5 8 10 10 6 20-4 9-16 10-22 4-7-7-2-16 4-20-8-2-12-10-6-18 3-4 6-5 10-6z"
+        fill="#0c3d0a" opacity="0.55"/>
+</svg>
